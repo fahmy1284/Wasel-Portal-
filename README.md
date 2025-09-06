@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # نظام واصل للخدمات الحكومية الإلكترونية
 ## Yemen E-Government Services System (Wasel)
 
@@ -300,3 +301,7 @@ flutter drive --target=test_driver/app.dart
   <p><strong>تم التطوير بـ ❤️ للجمهورية اليمنية</strong></p>
   <p>© 2024 نظام واصل للخدمات الحكومية الإلكترونية</p>
 </div>
+=======
+# Wasel-Portal-
+Yemeni Pay portal
+>>>>>>> 78c3142096a3df71270e74f81a4746612da5b74a
